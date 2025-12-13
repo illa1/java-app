@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application03</string>
+    <!-- main layout   -->
+    <string name="txt_main_title">Тестовий додаток </string>
+    <string name="btn_main_app_1">Відкрити</string>
+</resources>
